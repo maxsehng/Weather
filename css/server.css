@@ -1,0 +1,120 @@
+
+body {
+    overflow: hidden;
+}
+#mapContainer header {
+    background: url("../images/header.png") center;
+    background-size: 87% 100%;
+    display: flex !important;
+    color: white;
+    justify-content: space-between;
+    width: 100%;
+    height: 66px;
+    position: absolute;
+    z-index: 10;
+    filter: drop-shadow(8px 8px 10px black);
+}
+#mapContainer header div.time {
+    position: relative;
+    left: 5%;
+    top: 12px;
+}
+#mapContainer header div.time img {
+    width: 15px;
+}
+#mapContainer header div.time span {
+    position: relative;
+    left: 3px;
+    font-family: SourceHanSansCN-Regular;
+    font-weight: 500;
+    color: #FFFFFF;
+    bottom: 1px;
+}
+#mapContainer header div.title h3 {
+    font-size: 34px;
+    font-family: PangMenZhengDao;
+    font-weight: 400;
+    color: #FFFFFF;
+    position: relative;
+    right: 28%;
+    top: 17%;
+}
+@font-face {
+    font-family: PangMenZhengDao;
+    src: url('../css/fonts/ziti/pangmenzhengdao/SourceHanSansCN-Regular.ttf');
+}
+#mapContainer div.shadowBack img {
+    width: 100vw;
+    height: 100vh;
+}
+#mapContainer div.ol-zoom {
+    display: none;
+}
+#mapContainer div.serve_list {
+    position: absolute;
+    z-index: 10;
+    top: 11%;
+    right: 97px;
+    color: white;
+}
+#mapContainer div.serve_list div.title {
+    font-size: 19px;
+    font-weight: bold;
+    background: url(../images/underline_back.png) no-repeat;
+    background-position: 0px 15px;
+    background-size: 61% 100%;
+}
+#mapContainer div.serve_list div.tupu {
+    color: white;
+    margin-top: 30px;
+}
+#mapContainer div.serve_list div.tupu div.title {
+    font-size: 19px;
+    font-weight: bold;
+    background: url(../images/underline_back.png) no-repeat;
+    background-position: 0px 15px;
+    background-size: 61% 100%;
+}
+#mapContainer div.serve_list ul li {
+    margin: 6px 0;
+    font-size: 9px;
+}
+#mapContainer div.serve_list ul li img {
+    position: relative;
+    top: 4px;
+}
+#mapContainer div#out_circle {
+    position: absolute;
+    top: 40%;
+    left: 70%;
+}
+#mapContainer div.weather_forecast {
+    position: absolute;
+    z-index: 10;
+    top: 14%;
+    color: #B9E7FF;
+    left: 2%;
+    background: url("../images/modal.png");
+    background-size: 100% 100%;
+    width: 16%;
+    padding: 10px;
+}
+#mapContainer div.weather_forecast div.title {
+    background: url("../images/main_content_leftTitleBack.png") no-repeat;
+    text-align: center;
+    background-position: 50% 100%;
+    line-height: 26px;
+    font-size: 17px;
+    font-family: PangMenZhengDao;
+}
+#mapContainer div.weather_forecast ul li {
+    background: #1B3B6D;
+    opacity: 0.4;
+    padding: 3px 0px;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    font-size: 12px;
+    width: 89%;
+    text-align: center;
+    margin: 10px 29px 8px 12px;
+}

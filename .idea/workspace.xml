@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d689ea8c-10a2-494a-9252-78feccd57a39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rfDmk0G5kQVtSp4ijBpslFpHVe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-cli" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\学习\Weather\js\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\学习\Weather\js" />
+      <recent name="C:\Users\Administrator\Desktop\学习\Weather\images" />
+      <recent name="C:\Users\Administrator\Desktop\学习\Weather\css" />
+      <recent name="C:\Users\Administrator\Desktop\学习\Weather\css\fonts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Server.html">
+    <configuration name="Server.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weather/controlPlant/Server.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="console_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weather/controlPlant/console_1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Weather/webGIs/test.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.console_1.html" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript Debug.Server.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Server.html" />
+        <item itemvalue="JavaScript Debug.console_1.html" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d689ea8c-10a2-494a-9252-78feccd57a39" name="Default Changelist" comment="" />
+      <created>1618884828847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618884828847</updated>
+      <workItem from="1618884830175" duration="22956000" />
+      <workItem from="1618966687470" duration="17020000" />
+      <workItem from="1619054785936" duration="608000" />
+      <workItem from="1619141979353" duration="16751000" />
+      <workItem from="1619171866243" duration="268000" />
+      <workItem from="1619312519916" duration="1219000" />
+      <workItem from="1619342177748" duration="2424000" />
+      <workItem from="1619358417282" duration="4000" />
+      <workItem from="1619358425956" duration="5257000" />
+      <workItem from="1619439831956" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619361754090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1619361754090" />
+    <state x="831" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619358529250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619358529250" />
+    <state x="948" y="220" key="EditFileWatcherDialog" timestamp="1619359575961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="948" y="220" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619359575961" />
+    <state x="768" y="486" key="FileChooserDialogImpl" timestamp="1619359364397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="486" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619359364397" />
+    <state x="861" y="190" key="SettingsEditor" timestamp="1619359576835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619359576835" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1619359957122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619359957122" />
+  </component>
+</project>

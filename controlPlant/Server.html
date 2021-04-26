@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="../css/server.css">
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/ol.css">
+  <style>
+    #out_circle {
+      height: 500px;
+      width: 700px;
+      z-index: 10;
+      transform: scale(0.8);
+    }
+
+    #mapContainer .shadowBack{
+      position: absolute;
+      width: 500px;
+      height: 200px;
+      z-index: 9;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+<div id="mapContainer">
+  <header>
+    <div class="time">
+      <img src="../images/clock.png" alt="">
+      <span>2021-03-22 19:00</span>
+    </div>
+    <div class="title">
+      <h3>服务台 - 工地服务</h3>
+    </div>
+    <div class="right">
+    </div>
+  </header>
+  <div class="weather_forecast">
+    <div class="title">气象预警</div>
+    <ul>
+      <li>04月15日21时00分发布大风蓝色预警</li>
+      <li>04月15日21时00分发布大风蓝色预警</li>
+      <li>04月15日21时00分发布大风蓝色预警</li>
+      <li>04月15日21时00分发布大风蓝色预警</li>
+      <li>04月15日21时00分发布大风蓝色预警</li>
+    </ul>
+  </div>
+  <div class="serve_list">
+    <div class="title">工地服务</div>
+    <ul>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+      <li><img src="../images/serve_list_arrow.png" alt="">2021年第四期安置房工地气象信息快报</li>
+    </ul>
+
+    <div class="tupu">
+      <div class="title">
+        知识图谱
+      </div>
+
+    </div>
+
+  </div>
+  <div id="out_circle">
+
+  </div>
+
+  <div class="shadowBack">
+      <img src="../images/shadowBack.png" alt="">
+  </div>
+</div>
+<script src="../js/common/echarts.min.js"></script>
+<script src="../js/common/jquery-1.10.1.js"></script>
+<script src="../js/common/ol.js"></script>
+<script src="../js/server.js"></script>
+</body>
+</html>
