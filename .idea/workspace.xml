@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d689ea8c-10a2-494a-9252-78feccd57a39" name="Default Changelist" comment="" />
+    <list default="true" id="d689ea8c-10a2-494a-9252-78feccd57a39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlPlant/console_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/controlPlant/console_1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rfDmk0G5kQVtSp4ijBpslFpHVe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +48,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-cli" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -63,7 +90,8 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\lwx\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,13 +110,29 @@
       <workItem from="1619358417282" duration="4000" />
       <workItem from="1619358425956" duration="5257000" />
       <workItem from="1619439831956" duration="616000" />
+      <workItem from="1619494869461" duration="76000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="770" y="433" key="#Configure_Path_Variables" timestamp="1619494875240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="433" key="#Configure_Path_Variables/0.0.1920.1040@0.0.1920.1040" timestamp="1619494875240" />
     <state x="686" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619361754090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -97,18 +141,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="831" y="309" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619358529250" />
-    <state x="948" y="220" key="EditFileWatcherDialog" timestamp="1619359575961">
+    <state x="948" y="220" key="EditFileWatcherDialog" timestamp="1619494887171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="948" y="220" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619359575961" />
+    <state x="948" y="220" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619494887171" />
     <state x="768" y="486" key="FileChooserDialogImpl" timestamp="1619359364397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="768" y="486" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619359364397" />
-    <state x="861" y="190" key="SettingsEditor" timestamp="1619359576835">
+    <state x="416" y="226" key="SettingsEditor" timestamp="1619494890271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="861" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619359576835" />
+    <state x="416" y="226" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619494890271" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1619359957122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
